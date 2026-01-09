@@ -44,17 +44,26 @@ Aplikasi ini menggunakan sistem **Password Plain Text** pada database untuk memu
 
 ---
 ## Cara Instalasi
-Clone atau download repository ini.
+1. Clone atau download repository ini.
 
-Masukkan folder project ke dalam C:/xampp/htdocs/.
+2. Masukkan folder project ke dalam C:/xampp/htdocs/.
 
-Aktifkan Apache dan MySQL di Control Panel XAMPP.
+3. Aktifkan Apache dan MySQL di Control Panel XAMPP.
 
-Buat database di phpMyAdmin dengan nama db_todolist.
+4. Buat database di phpMyAdmin dengan nama db_todolist.
 
-Import tabel users dan tasks yang disediakan.
+5. Import tabel users dan tasks yang disediakan.
 
-Akses aplikasi melalui alamat: http://localhost/todo/login.
+6. Akses aplikasi melalui alamat: http://localhost/todo/login.
+
+   ## Akun Login
+   Admin : Username: admin    Password : 123
+   User : Username : user     Password : 123
+
+
+   ## Dokumentasi Video
+
+   link :
 
 ##  Struktur Folder
 ```text
