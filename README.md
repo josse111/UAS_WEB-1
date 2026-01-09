@@ -4,7 +4,7 @@ Aplikasi To-Do List berbasis web yang dibangun menggunakan arsitektur **MVC (Mod
 
 ---
 
-## 👤 Identitas Mahasiswa
+##  Identitas Mahasiswa
 - **Nama**: Zaki Fauzan Akhbari
 - **NIM**: 312410348
 - **Mata Kuliah**: Pemrograman Web
@@ -12,7 +12,7 @@ Aplikasi To-Do List berbasis web yang dibangun menggunakan arsitektur **MVC (Mod
 
 ---
 
-## 📝 Deskripsi Program
+##  Deskripsi Program
 Program ini merupakan aplikasi manajemen tugas (Task Management) yang memisahkan logika aplikasi ke dalam tiga komponen utama (MVC):
 1. **Model**: Mengatur komunikasi dan query ke database MySQL.
 2. **View**: Menampilkan antarmuka pengguna menggunakan Bootstrap 5.
@@ -22,7 +22,7 @@ Aplikasi ini menggunakan sistem **Password Plain Text** pada database untuk memu
 
 ---
 
-## 🚀 Fitur Utama (Sesuai Ketentuan UAS)
+##  Fitur Utama (Sesuai Ketentuan UAS)
 1. **Sistem Autentikasi**: Login dan Logout menggunakan **Session PHP** untuk membatasi akses halaman dashboard.
 2. **Manajemen Tugas (CRUD)**:
    - **Tambah**: Input tugas baru ke dalam daftar.
@@ -43,8 +43,20 @@ Aplikasi ini menggunakan sistem **Password Plain Text** pada database untuk memu
 - **Server**: Apache (via XAMPP).
 
 ---
+## Cara Instalasi
+Clone atau download repository ini.
 
-## 📂 Struktur Folder
+Masukkan folder project ke dalam C:/xampp/htdocs/.
+
+Aktifkan Apache dan MySQL di Control Panel XAMPP.
+
+Buat database di phpMyAdmin dengan nama db_todolist.
+
+Import tabel users dan tasks yang disediakan.
+
+Akses aplikasi melalui alamat: http://localhost/todo/login.
+
+##  Struktur Folder
 ```text
 todo/
 ├── App/
