@@ -63,7 +63,7 @@ Aplikasi ini menggunakan sistem **Password Plain Text** pada database untuk memu
 
    ## Dokumentasi Video
 
-   link :
+   link : https://youtu.be/l3iGCkjW_tU
 
 ##  Struktur Folder
 ```text
